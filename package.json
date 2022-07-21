@@ -1,6 +1,6 @@
 {
   "name": "vplan-rest",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "main": "./out/js/index.js",
   "types": "./out/dec/index.d.ts",
