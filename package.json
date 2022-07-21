@@ -11,6 +11,10 @@
   },
   "author": "kiriDevs",
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiriDevs/vplan-rest"
+  },
   "dependencies": {
     "axios": "^0.27.2"
   },
