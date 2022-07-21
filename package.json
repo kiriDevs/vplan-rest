@@ -10,7 +10,7 @@
     "prepublish": "npm run build"
   },
   "author": "kiriDevs",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/kiriDevs/vplan-rest"
