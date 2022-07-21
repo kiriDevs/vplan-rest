@@ -1,0 +1,10 @@
+# Ignore tsconfig
+/tsconfig.json
+
+# Ignore turbo caches
+/.turbo/
+
+# Ignore the build output...
+/out/*
+!/out/js/ # ... except emitted JavaScript (+map) files
+!/out/dec/ # ... except emitted type declarations
