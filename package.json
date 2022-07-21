@@ -15,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/kiriDevs/vplan-rest"
   },
+  "bugs": {
+    "url": "https://github.com/kiriDevs/vplan-rest/issues"
+  },
   "dependencies": {
     "axios": "^0.27.2"
   },
