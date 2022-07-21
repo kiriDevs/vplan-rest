@@ -23,5 +23,12 @@
   },
   "devDependencies": {
     "typescript": "^4.7.2"
-  }
+  },
+  "contributors": [
+    {
+      "name": "kiriDevs",
+      "email": "56218513+kiriDevs@users.noreply.github.com",
+      "url": "https://github.com/kiriDevs"
+    }
+  ]
 }
